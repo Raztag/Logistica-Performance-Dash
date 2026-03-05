@@ -27,3 +27,8 @@ Microsoft Excel: Estruturação da base de dados do zero. Apliquei conceitos de 
 Power BI: ETL (Extração, Transformação e Carregamento) via Power Query, modelagem de dados e criação de visualizações dinâmicas.
 
 DAX: Desenvolvimento de fórmulas inteligentes para indicadores de performance (KPIs) e cálculos de rentabilidade.
+
+
+<img width="1313" height="739" alt="Screenshot_9" src="https://github.com/user-attachments/assets/0fca2f82-81cc-4497-8599-902d441d5c29" />
+<img width="1313" height="738" alt="Screenshot_8" src="https://github.com/user-attachments/assets/6bf4f7b0-2398-492a-b92a-8d1b94bb7c36" />
+<img width="1312" height="736" alt="Screenshot_7" src="https://github.com/user-attachments/assets/3e4f7b1a-47a5-4827-9270-6f2c17f2fc3f" />
